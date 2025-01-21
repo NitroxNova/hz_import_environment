@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://kshh156qs8xw"
+path="res://.godot/imported/short04.obj-82c251ddbe1e0b03cf97492265dfd025.mesh"
+
+[deps]
+
+files=["res://.godot/imported/short04.obj-82c251ddbe1e0b03cf97492265dfd025.mesh"]
+
+source_file="res://data/input/equipment/hair/short04/short04.obj"
+dest_files=["res://.godot/imported/short04.obj-82c251ddbe1e0b03cf97492265dfd025.mesh", "res://.godot/imported/short04.obj-82c251ddbe1e0b03cf97492265dfd025.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

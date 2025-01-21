@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cehf1tkjetkc6"
+path="res://.godot/imported/SuitSlacks.obj-91c7b88f8a878388defe27ef2a2173c5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SuitSlacks.obj-91c7b88f8a878388defe27ef2a2173c5.mesh"]
+
+source_file="res://data/input/equipment/outfits/male_elegantsuit01/SuitSlacks.obj"
+dest_files=["res://.godot/imported/SuitSlacks.obj-91c7b88f8a878388defe27ef2a2173c5.mesh", "res://.godot/imported/SuitSlacks.obj-91c7b88f8a878388defe27ef2a2173c5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dluvh6xh01k7h"
+path="res://.godot/imported/bob01.obj-e5048ca548a068c8904daf50184c7452.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bob01.obj-e5048ca548a068c8904daf50184c7452.mesh"]
+
+source_file="res://data/input/equipment/hair/bob01/bob01.obj"
+dest_files=["res://.godot/imported/bob01.obj-e5048ca548a068c8904daf50184c7452.mesh", "res://.godot/imported/bob01.obj-e5048ca548a068c8904daf50184c7452.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

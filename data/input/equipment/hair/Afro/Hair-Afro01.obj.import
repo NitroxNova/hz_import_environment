@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b6fygwpu026fu"
+path="res://.godot/imported/Hair-Afro01.obj-a8713175458b7f6165fbdeb8be7ce2fe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Hair-Afro01.obj-a8713175458b7f6165fbdeb8be7ce2fe.mesh"]
+
+source_file="res://data/input/equipment/hair/Afro/Hair-Afro01.obj"
+dest_files=["res://.godot/imported/Hair-Afro01.obj-a8713175458b7f6165fbdeb8be7ce2fe.mesh", "res://.godot/imported/Hair-Afro01.obj-a8713175458b7f6165fbdeb8be7ce2fe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

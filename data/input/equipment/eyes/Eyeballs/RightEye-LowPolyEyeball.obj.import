@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://xrkn44xbc5cw"
+path="res://.godot/imported/RightEye-LowPolyEyeball.obj-e38847cf458441f2cd638a09d1632e13.mesh"
+
+[deps]
+
+files=["res://.godot/imported/RightEye-LowPolyEyeball.obj-e38847cf458441f2cd638a09d1632e13.mesh"]
+
+source_file="res://data/input/equipment/eyes/Eyeballs/RightEye-LowPolyEyeball.obj"
+dest_files=["res://.godot/imported/RightEye-LowPolyEyeball.obj-e38847cf458441f2cd638a09d1632e13.mesh", "res://.godot/imported/RightEye-LowPolyEyeball.obj-e38847cf458441f2cd638a09d1632e13.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

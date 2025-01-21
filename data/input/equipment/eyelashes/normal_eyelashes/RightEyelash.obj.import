@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c305wnnhtn23v"
+path="res://.godot/imported/RightEyelash.obj-0c60fb826dc56bf50d015ae444896e8d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/RightEyelash.obj-0c60fb826dc56bf50d015ae444896e8d.mesh"]
+
+source_file="res://data/input/equipment/eyelashes/normal_eyelashes/RightEyelash.obj"
+dest_files=["res://.godot/imported/RightEyelash.obj-0c60fb826dc56bf50d015ae444896e8d.mesh", "res://.godot/imported/RightEyelash.obj-0c60fb826dc56bf50d015ae444896e8d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

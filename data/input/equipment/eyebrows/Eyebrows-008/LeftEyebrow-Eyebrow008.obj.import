@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://xhorfcp07jul"
+path="res://.godot/imported/LeftEyebrow-Eyebrow008.obj-74d869a0014760ca31605cdbae9d4a57.mesh"
+
+[deps]
+
+files=["res://.godot/imported/LeftEyebrow-Eyebrow008.obj-74d869a0014760ca31605cdbae9d4a57.mesh"]
+
+source_file="res://data/input/equipment/eyebrows/Eyebrows-008/LeftEyebrow-Eyebrow008.obj"
+dest_files=["res://.godot/imported/LeftEyebrow-Eyebrow008.obj-74d869a0014760ca31605cdbae9d4a57.mesh", "res://.godot/imported/LeftEyebrow-Eyebrow008.obj-74d869a0014760ca31605cdbae9d4a57.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

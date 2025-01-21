@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://fpc6w37a1edm"
+path="res://.godot/imported/ponytail01.obj-21a81dd0b929162ef36e50d900205cb3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ponytail01.obj-21a81dd0b929162ef36e50d900205cb3.mesh"]
+
+source_file="res://data/input/equipment/hair/ponytail01/ponytail01.obj"
+dest_files=["res://.godot/imported/ponytail01.obj-21a81dd0b929162ef36e50d900205cb3.mesh", "res://.godot/imported/ponytail01.obj-21a81dd0b929162ef36e50d900205cb3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

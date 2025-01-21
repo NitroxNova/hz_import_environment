@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://buxv48fh2v7qs"
+path="res://.godot/imported/teeth_shape04.obj-2292a5cff7bda9b070d156eebc4694ca.mesh"
+
+[deps]
+
+files=["res://.godot/imported/teeth_shape04.obj-2292a5cff7bda9b070d156eebc4694ca.mesh"]
+
+source_file="res://data/input/equipment/teeth/basic_teeth/teeth_shape04.obj"
+dest_files=["res://.godot/imported/teeth_shape04.obj-2292a5cff7bda9b070d156eebc4694ca.mesh", "res://.godot/imported/teeth_shape04.obj-2292a5cff7bda9b070d156eebc4694ca.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
