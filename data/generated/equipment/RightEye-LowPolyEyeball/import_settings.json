@@ -1,1 +1,1 @@
-{"attach_bones":[],"default_material":"default","display_name":"Right Eye","material_override":"LeftEye-LowPolyEyeball","mhclo":"res://data/input/equipment/eyes/Eyeballs/RightEye-LowPolyEyeball.mhclo","rigged_glb":"","slots":["RightEye"],"version":1}
+{"attach_bones":[],"default_material":"default","display_name":"Right Eye","material_override":"LeftEye-LowPolyEyeball","mhclo":"res://data/input/equipment/eyes/Eyeballs/RightEye-LowPolyEyeball.mhclo","rigged_glb":"","slots":["righteye"],"version":1.0}

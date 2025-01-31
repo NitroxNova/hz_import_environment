@@ -1,1 +1,1 @@
-{"attach_bones":[],"default_material":"","display_name":"DefaultBody","material_override":"","mhclo":"res://data/input/equipment/body/Default/Body-Default.mhclo","rigged_glb":"","slots":["Body"],"version":1}
+{"attach_bones":[],"default_material":"","display_name":"DefaultBody","material_override":"","mhclo":"res://data/input/equipment/body/Default/Body-Default.mhclo","rigged_glb":"","slots":["body"],"version":1.0}

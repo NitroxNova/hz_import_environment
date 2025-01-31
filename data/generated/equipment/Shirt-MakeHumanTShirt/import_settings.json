@@ -1,1 +1,1 @@
-{"attach_bones":[],"default_material":"female_casualsuit01","display_name":"MakeHuman TShirt","material_override":"Pants-SkinnyJeans","mhclo":"res://data/input/equipment/outfits/female_casualsuit01/Shirt-MakeHumanTShirt.mhclo","rigged_glb":"","slots":["TorsoClothes"],"version":1}
+{"attach_bones":[],"default_material":"female_casualsuit01","display_name":"MakeHuman TShirt","material_override":"Pants-SkinnyJeans","mhclo":"res://data/input/equipment/outfits/female_casualsuit01/Shirt-MakeHumanTShirt.mhclo","rigged_glb":"","slots":["torsoclothes"],"version":1.0}

@@ -1,1 +1,1 @@
-{"attach_bones":[],"default_material":"male_elegantsuit01","display_name":"Suit Top","material_override":"Pants-SuitSlacks","mhclo":"res://data/input/equipment/outfits/male_elegantsuit01/Shirt-SuitTop.mhclo","rigged_glb":"","slots":["ArmsClothes","TorsoClothes"],"version":1}
+{"attach_bones":[],"default_material":"male_elegantsuit01","display_name":"Suit Top","material_override":"Pants-SuitSlacks","mhclo":"res://data/input/equipment/outfits/male_elegantsuit01/Shirt-SuitTop.mhclo","rigged_glb":"","slots":["armsclothes","torsoclothes"],"version":1.0}

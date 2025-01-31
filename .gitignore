@@ -2,6 +2,7 @@
 .godot/
 /android/
 *.depren
+*.uid
 /addons/humanizer
 /addons/humanizer_import
 /export

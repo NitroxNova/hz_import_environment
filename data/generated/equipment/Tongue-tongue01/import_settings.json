@@ -1,1 +1,1 @@
-{"attach_bones":[],"default_material":"tongue01","display_name":"HumanTongue","material_override":"","mhclo":"res://data/input/equipment/tongue/tongue01/Tongue-tongue01.mhclo","rigged_glb":"","slots":["Tongue"],"version":1}
+{"attach_bones":[],"default_material":"tongue01","display_name":"HumanTongue","material_override":"","mhclo":"res://data/input/equipment/tongue/tongue01/Tongue-tongue01.mhclo","rigged_glb":"","slots":["tongue"],"version":1.0}

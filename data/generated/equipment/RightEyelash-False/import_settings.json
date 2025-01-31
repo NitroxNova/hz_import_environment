@@ -1,1 +1,1 @@
-{"attach_bones":[],"default_material":"eyelashes04","display_name":"FalseRightEyelash","material_override":"LeftEyelash-False","mhclo":"res://data/input/equipment/eyelashes/false_eyelashes/RightEyelash-False.mhclo","rigged_glb":"","slots":["RightEyelash"],"version":1}
+{"attach_bones":[],"default_material":"eyelashes04","display_name":"FalseRightEyelash","material_override":"LeftEyelash-False","mhclo":"res://data/input/equipment/eyelashes/false_eyelashes/RightEyelash-False.mhclo","rigged_glb":"","slots":["righteyelash"],"version":1.0}
